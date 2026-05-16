@@ -46,7 +46,7 @@ The main goals of this project are to:
 
 🚥 German Traffic Sign Recognition Benchmark (GTSRB)
 
-Dataset Link:
+Dataset Link: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 GTSRB Dataset on Kaggle
 
